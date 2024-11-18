@@ -1,1 +1,3 @@
-# Gravity-Flip-2Dgame
+This game is created as part of a game jam with the theme "Strange Powerups".
+This is a 2D game called Gravity Flip. You control a cube that moves with a constant speed horizontally. You have to manuever it vertically by changing its gravity by clicking left mouse button. Each time you click the mouse, the gravity becomes inverse value. Collect as much as coins you can while avoiding spikes which will decrease your health.
+This game has 6 powerups that you will encounter : 1. Gravity increaser, 2. Gravity reducer, 3.Score Multiplier, 4. Player Size Reducer, 5.Camera FOV increaer, 6.Health Points.
